@@ -1,4 +1,4 @@
-### Hi there! I am Artyom
+### Hi there! I am Artem
 
 ### Frontend developer
 
