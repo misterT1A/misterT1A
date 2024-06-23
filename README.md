@@ -7,6 +7,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300"/>
 </div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
