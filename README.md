@@ -42,3 +42,4 @@
 - [Async race](https://rolling-scopes-school.github.io/mistert1a-JSFE2023Q4/async-race/) game: Ts
 - [Coffe house](https://rolling-scopes-school.github.io/mistert1a-JSFE2023Q4/coffee-house/) Layout: Js
 - [Hangman](https://rolling-scopes-school.github.io/mistert1a-JSFE2023Q4/hangman/) game: Js
+- [Planet search](https://next-js-redux-app-cgj1.vercel.app/) app: Next.js, redux, Ts, jest
