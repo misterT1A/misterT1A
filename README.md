@@ -46,3 +46,4 @@
 - [Planet search](https://next-js-redux-app-cgj1.vercel.app/) app: Next.js, redux, Ts, jest
 
 - [app for Rest and GraphQL requests](https://graphiql-app-kappa.vercel.app/) app: Next.js, Ts, jest, graphql, tailwindcss, next-ui, firebase, react-hook-form, zod, next-ui, next-intl
+- [Landing Page](https://test-task-getshoptv.vercel.app/) Next.js, tailwind
