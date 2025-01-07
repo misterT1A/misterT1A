@@ -36,14 +36,6 @@
 
 ### :writing_hand: My projects:
 
-- [Nonograms](https://rolling-scopes-school.github.io/mistert1a-JSFE2023Q4/nonograms/) game: Js
-- [Fun chat](https://rolling-scopes-school.github.io/mistert1a-JSFE2023Q4/fun-chat/#) game: Ts
-- [Puzzle](https://rolling-scopes-school.github.io/mistert1a-JSFE2023Q4/rss-puzzle/) game: Ts, MVC
-- [Async race](https://rolling-scopes-school.github.io/mistert1a-JSFE2023Q4/async-race/) game: Ts
-- [Coffe house](https://rolling-scopes-school.github.io/mistert1a-JSFE2023Q4/coffee-house/) Layout: Js
-- [Hangman](https://rolling-scopes-school.github.io/mistert1a-JSFE2023Q4/hangman/) game: Js
-- [React forms](https://react-task-forms.netlify.app/) app: React, react-hook-form, redux, yup, Ts, jest, vite
-- [Planet search](https://next-js-redux-app-cgj1.vercel.app/) app: Next.js, redux, Ts, jest
-
-- [app for Rest and GraphQL requests](https://graphiql-app-kappa.vercel.app/) app: Next.js, Ts, jest, graphql, tailwindcss, next-ui, firebase, react-hook-form, zod, next-ui, next-intl
+- [app for Rest and GraphQL requests](https://graphiql-app-kappa.vercel.app/) app: Next.js, TypeScript, jest, graphql, tailwindcss, next-ui, firebase, react-hook-form, zod, next-ui, next-intl
 - [Landing Page](https://test-task-getshoptv.vercel.app/) Next.js, tailwind
+- [firebase app](https://next-firebase-cyan.vercel.app/) Next.js, TypeScript, tailwind, MUI, firestore database, firebase auth
