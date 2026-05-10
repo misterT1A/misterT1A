@@ -32,10 +32,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misterT1A&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### :writing_hand: My projects:
-
-- [app for Rest and GraphQL requests](https://graphiql-app-kappa.vercel.app/) app: Next.js, TypeScript, jest, graphql, tailwindcss, next-ui, firebase, react-hook-form, zod, next-ui, next-intl
-- [Landing Page](https://test-task-getshoptv.vercel.app/) Next.js, tailwind
-- [firebase app](https://next-firebase-cyan.vercel.app/) Next.js, TypeScript, tailwind, MUI, firestore database, firebase auth
