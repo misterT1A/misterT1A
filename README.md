@@ -1,7 +1,5 @@
 ### Hi there! I am Artem
 
-### Frontend developer
-
 ---
 
 <div id="header" align="center">
